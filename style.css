@@ -1,0 +1,32 @@
+body {
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+.content {
+    position: relative;
+}
+
+/*.header {*/
+/*    background: white;*/
+/*    position: fixed;*/
+/*}*/
+
+.info {
+    font-size: 10pt;
+    text-indent: 1em;
+}
+
+p {
+    text-align: left;
+    font-size: 12pt;
+}
+
+.header img {
+    float: right;
+    width: 100px;
+    height: 100px;
+}
+
+.header h1 {
+    position: relative;
+}
